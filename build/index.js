@@ -10,4 +10,4 @@ source_map_support_1.default.install({ handleUncaughtExceptions: false });
 new standalone_1.Ignitor(__dirname)
     .httpServer()
     .start();
-//# sourceMappingURL=server.js.map
+//# sourceMappingURL=index.js.map
